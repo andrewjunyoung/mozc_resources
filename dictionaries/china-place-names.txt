@@ -1,0 +1,11 @@
+すーじょう	蘇州	地名	Suzhou
+べいじん	北京	地名	Beijing
+てんじん	天津	地名	Tianjin
+ほーべい	河北	名詞	Hebei
+うーじょう	呉州	名詞	Wuzhou
+ちょんどぅ	成都	名詞	Chengdu
+あおもん	澳門	名詞	Aomen
+しゃーてん	沙田	地名	Shatian（香港の一部）
+やんしゃん	洋山	地名	Yangshan（上海の深水港）
+わんつぁい	湾仔	地名	Wanzai
+しゃんがん	香港	名詞	
