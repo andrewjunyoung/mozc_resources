@@ -67,7 +67,7 @@ t	た
 ta	た
 te	て
 to	と
-n	な
+n	ん
 na	な
 ni	に
 nu	ぬ
