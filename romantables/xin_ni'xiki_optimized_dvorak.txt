@@ -40,12 +40,12 @@ gi	ぎ
 gu	ぐ
 ge	げ
 go	ご
-k	つ
-ka	つぁ
-ki	つぃ
-ku	つ
-ke	つぇ
-ko	つぉ
+ts	つ
+tsa	つぁ
+tsi	つぃ
+tsu	つ
+tse	つぇ
+tso	つぉ
 r	ら
 ra	ら
 ri	り
@@ -79,12 +79,12 @@ sa	さ
 su	す
 se	せ
 so	そ
-q	ち
-qa	ちゃ
-qi	ち
-qu	ちゅ
-qe	ちぇ
-qo	ちょ
+k	ち
+ka	ちゃ
+ki	ち
+ku	ちゅ
+ke	ちぇ
+ko	ちょ
 j	じ
 ja	じゃ
 ji	じ
@@ -132,7 +132,7 @@ zu	ず
 ze	ぜ
 zo	ぞ
 l		ん
-_ー
+_ ー
 €	？
 '	っ
 "	.
