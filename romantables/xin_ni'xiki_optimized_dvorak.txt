@@ -3,28 +3,25 @@
 :	：
 !	！
 ?	？
-- ー
-_ ー
+_	ー
+-	ー
 {	『
 }	』
-[ 」
-] 「
-"	ゝ
+
+A	ぁ
+I	ぃ
+U	ぅ
+E	ぇ
+O	ぉ
+wA	ゎ
+cA	ヵ
+cE	ヶ
 
 a	あ
 o	お
 e	え
 u	う
 i	い
-A ぁ
-O ぉ
-E ぇ
-U ぅ
-I ぃ
-wA ゎ
-cA ヵ
-cE ヶ
-
 p	ぱ
 pa	ぱ
 pi	ぴ
@@ -91,12 +88,21 @@ re	れ
 ro	ろ
 d	だ
 da	だ
-di	でい
-du  どぅ
+di	でぃ
 de	で
 do	ど
+dj
+dja
+dji
+dju
+dje
+djo
 dz	づ
+dza	づぁ
+dzi	づぃ
 dzu	づ
+dze	づぇ
+dzo	づぉ
 h	は
 ha	は
 hi	ひ
@@ -128,6 +134,11 @@ no	の
 s	さ
 sa	さ
 su	す
+swa	すぁ
+swi	すぃ
+swu	すぅ
+swe	すぇ
+swo	すぉ
 se	せ
 so	そ
 k	ち
@@ -198,8 +209,9 @@ me	め
 mo	も
 w	わ
 wa	わ
-wi	ゐ
-we	ゑ
+wi	うぃ
+wu	うぅ
+we	うぇ
 wo	を
 v	ゔ
 va	ゔぁ
@@ -210,7 +222,12 @@ vo	ゔぉ
 z	ざ
 za	ざ
 zu	ず
+zwa	ずぁ
+zwi	ずぃ
+zwu	ずぅ
+zwe	ずぇ
+zwo	ずぉ
 ze	ぜ
 zo	ぞ
-l		ん
+l	ん
 '	っ
