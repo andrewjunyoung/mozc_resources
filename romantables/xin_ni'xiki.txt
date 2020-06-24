@@ -15,7 +15,21 @@ E	ぇ
 O	ぉ
 wA	ゎ
 kA	ヵ
+kU	ㇰ
 kE	ヶ
+xI	ㇱ
+sU	ㇲ
+tO	ㇳ
+tsU	ッ
+tU	ッ
+nU	ㇴ
+pU	ㇷ゚
+mU	ㇺ
+rA	ㇻ
+rI	ㇼ
+rU	ㇽ
+rE	ㇾ
+rO	ㇿ
 
 a	あ
 o	お
