@@ -13,6 +13,9 @@ I	ぃ
 U	ぅ
 E	ぇ
 O	ぉ
+yA	ゃ
+yU	ゅ
+yO	ょ
 wA	ゎ
 kA	ヵ
 kU	ㇰ
@@ -105,12 +108,12 @@ da	だ
 di	でぃ
 de	で
 do	ど
-dj
-dja
-dji
-dju
-dje
-djo
+dj	ぢ
+dja	ぢゃ
+dji	ぢ
+dju	ぢぅ
+dje	ぢぇ
+djo	ぢょ
 dz	づ
 dza	づぁ
 dzi	づぃ
@@ -166,7 +169,7 @@ ja	じゃ
 ji	じ
 ju	じゅ
 je	じぇ
-jo	じぉ
+jo	じょ
 c	か
 ca	か
 ci	き
