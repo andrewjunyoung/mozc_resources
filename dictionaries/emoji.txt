@@ -1,0 +1,97 @@
+やんしゃん	洋山	地名	Yangshan（上海の深水港）
+😀	えがお	絵文字
+😃	えがお	絵文字
+😄	えがお	絵文字
+😁	えがお	絵文字
+😆	Grinning	絵文字
+😅	あせ
+🤣	わらい	絵文字
+😂	Face	絵文字
+🙂	ほほえみ	絵文字
+🙃	えがお	絵文字
+😉	うぃんく	絵文字
+😊	ほほえみ	絵文字
+😇	てんし	絵文字
+🥰	はーと	絵文字
+🥰	らぶらぶ	絵文字
+🥰	らぶ	絵文字
+😍	はーと	絵文字
+😍	らぶらぶ	絵文字
+😍	らぶ	絵文字
+🤩	Star絵文字
+😘	Face	絵文字	a	Kiss
+😗	Kissing	絵文字
+☺			絵文字
+😚	きす	絵文字	with	Closed	Eyes
+😙	きす	絵文字	with	Smiling	Eyes
+😋	おいしい	絵文字	Food
+😋	おいしそう	絵文字	Food
+😋	おいしがる	絵文字	Food
+😛	した	絵文字	Tongue
+😜	うぃんく	絵文字	with	Tongue
+🤪	Zany	絵文字
+😝	Squinting	絵文字	with	Tongue
+🤑	おかね	絵文字	Face
+🤗	はぐ	絵文字
+🤗	ほうよう	絵文字
+🤭	しーん	絵文字	Hand	Over	Mouth
+🤫	しーん	絵文字
+🤔	かんがえる	絵文字
+🤐		絵文字	Face
+🤨	うたがう	絵文字	Raised	Eyebrow
+😐	むひょうじょう	絵文字
+😑	むひょうじょう	絵文字
+😶	Face	絵文字	Mouth
+😏	Smirking	絵文字
+😒	Unamused	絵文字
+🙄	Face	絵文字	Rolling	Eyes
+😬	Grimacing	絵文字
+🤥	Lying	絵文字
+😌	Relieved	絵文字
+😔	Pensive	絵文字
+😪	Sleepy	絵文字
+🤤	Drooling	絵文字
+😴	Sleeping	絵文字
+😷	Face	絵文字	Medical	Mask
+🤒	Face	絵文字	Thermometer
+🤕	Face	絵文字	Head-Bandage
+🤢	Nauseated	絵文字
+🤮	Face	絵文字
+🤧	Sneezing	絵文字
+🥵	Hot	絵文字
+🥶	Cold	絵文字
+🥴	Woozy	絵文字
+😵	めまい	絵文字
+🤯	Exploding	絵文字
+🤠	Cowboy	絵文字	Face
+🥳	Partying	絵文字
+😎	Smiling	Face	with	Sunglasses
+🤓	Nerd	Face
+🧐	Face	with	Monocle
+😕	Confused	Face
+😟	Worried	Face
+🙁	Slightly	Frowning	Face
+☹	Frowning	Face
+😮	Face	with	Open	Mouth
+😯	Hushed	Face
+😲	Astonished	Face
+😳	Flushed	Face
+🥺	Pleading	Face
+😦	Frowning	Face	with	Open	Mouth
+😧	Anguished	Face
+😨	Fearful	Face
+😰	Anxious	Face	with	Sweat
+😥	Sad	but	Relieved	Face
+😢	Crying	Face
+😭	Loudly	Crying	Face
+😱	びっくり	Face	Screaming	in	Fear
+😖	Confounded	Face
+😣	Persevering	Face
+😞	Disappointed	Face
+😓	あせ	Downcast	Face	with	Sweat
+😩	Weary	Face
+😫	Tired	Face
+🥱	Yawning	Face
+😤	Face	with	Steam	From	Nose
+😡	Pouting	Face
+😠	おこってる	Angry	Face
