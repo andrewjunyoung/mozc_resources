@@ -123,6 +123,11 @@ dzo	づぉ
 h	は
 ha	は
 hi	ひ
+hya	ひゃ
+hyi	ひぃ
+hyu	ひゅ
+hye	ひぇ
+hyo	ひょ
 he	へ
 ho	ほ
 t	た
