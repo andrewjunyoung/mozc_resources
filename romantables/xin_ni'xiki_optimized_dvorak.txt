@@ -39,7 +39,7 @@ o	お
 e	え
 u	う
 i	い
-p	ぱ
+p	ぷ
 pa	ぱ
 pi	ぴ
 pya	ぴゃ
@@ -55,7 +55,7 @@ pwe	ぷぇ
 pwo	ぷぉ
 pe	ぺ
 po	ぽ
-y	や
+y	ゆ
 ya	や
 yu	ゆ
 yo	よ
@@ -65,7 +65,7 @@ fi	ふぃ
 fu	ふ
 fe	ふぇ
 fo	ふぉ
-g	が
+g	ぐ
 ga	が
 gi	ぎ
 gya	ぎゃ
@@ -87,7 +87,7 @@ tsi	つぃ
 tsu	つ
 tse	つぇ
 tso	つぉ
-r	ら
+r	る
 ra	ら
 ri	り
 rya	りゃ
@@ -103,7 +103,7 @@ rwe	るぇ
 rwo	るぉ
 re	れ
 ro	ろ
-d	だ
+d	ど
 da	だ
 di	でぃ
 de	で
@@ -120,7 +120,7 @@ dzi	づぃ
 dzu	づ
 dze	づぇ
 dzo	づぉ
-h	は
+h	ひ
 ha	は
 hi	ひ
 hya	ひゃ
@@ -130,7 +130,7 @@ hye	ひぇ
 hyo	ひょ
 he	へ
 ho	ほ
-t	た
+t	と
 ta	た
 ti  てぃ
 tu	とぅ
@@ -153,7 +153,7 @@ nwe	ぬぇ
 nwo	ぬぉ
 ne	ね
 no	の
-s	さ
+s	す
 sa	さ
 su	す
 swa	すぁ
@@ -175,7 +175,7 @@ ji	じ
 ju	じゅ
 je	じぇ
 jo	じょ
-c	か
+c	く
 ca	か
 ci	き
 cya	きゃ
@@ -197,7 +197,7 @@ xi	し
 xu	しゅ
 xe	しぇ
 xo	しょ
-b	ば
+b	ぶ
 ba	ば
 bi	び
 bya	びゃ
@@ -213,7 +213,7 @@ bwe	ぶぇ
 bwo	ぶぉ
 be	べ
 bo	ぼ
-m	ま
+m	む
 ma	ま
 mi	み
 mya	みゃ
@@ -229,7 +229,7 @@ mwe	むぇ
 mwo	むぉ
 me	め
 mo	も
-w	わ
+w	を
 wa	わ
 wi	うぃ
 wu	うぅ
@@ -241,7 +241,7 @@ vi	ゔぃ
 vu	ゔ
 ve	ゔぇ
 vo	ゔぉ
-z	ざ
+z	ず
 za	ざ
 zu	ず
 zwa	ずぁ
