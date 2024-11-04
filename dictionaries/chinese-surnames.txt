@@ -1,16 +1,128 @@
-ふぉん	馮	姓	中国苗字の一つ。ピン音：Feng
-やん	楊	姓	中国苗字の一つ。ピン音：Yang
-じゃお	趙	姓	中国苗字の一つ。ピン音：Zhao
-わん	王	姓	中国苗字の一つ。ピン音：Wang
-じゃん	張	姓	中国苗字の一つ。ピン音：Zhang
-りん	林	姓	中国苗字の一つ。ピン音：Lin
-ふう	馮	姓	中国苗字の一つ。ピン音：Feng
-よう	楊	名詞	 中国苗字の一つ。ピン音：Yang
-しょう	趙	名詞	中国苗字の一つ。ピン音：Zhao
-おう	王	名詞	中国苗字の一つ。ピン音：Wang
-ちょう	張	名詞	中国苗字の一つ。ピン音：Zhang
-りん	林	名詞	中国苗字の一つ。ピン音：Lin
-しゅう	習	名詞	中国苗字の一つ。ピン音：Xi
-しー	習	名詞	中国苗字の一つ。ピン音：Xi
-しゅう	周	名詞	中国苗字の一つ。ピン音：Zhou
-じょう	周	名詞	中国苗字の一つ。ピン音：Zhou
+ちょう	趙/赵	Zhao
+せん	銭/錢	Qian
+そん	孫	Sun
+り	李	Li
+しゅう	周	Zhou
+ご	呉/吳	Wu
+てい	鄭	Zheng
+おう	王	Wang
+ひょう	馮	Feng
+ちん	陳	Chen
+ちょ	褚	Chu
+えい	衛	Wei
+しょう	蒋/蔣	Jiang
+しん	沈	Shen
+かん	韓	Han
+よう	楊	Yang
+しゅ	朱	Zhu
+しん	秦	Qin
+ゆう	尤	You
+きょ	許	Xu
+か	何	He
+りょ	呂	Lü
+し	施	Shi
+ちょう	張	Zhang
+こう	孔	Kong
+そう	曹	Cao
+げん	厳/嚴	Yan
+か	華	Hua
+きん	金	Jin
+ぎ	魏	Wei
+とう	陶	Tao
+きょう	姜	Jiang
+せき	戚	Qi
+しゃ	謝	Xie
+しゅう	鄒	Zou
+ゆ	喻	Yu
+はく	柏	Bai
+すい	水	Shui
+とう	竇	Dou
+しょう	章	Zhang
+うん	雲	Yun
+そ	蘇	Su
+はん	潘	Pan
+かつ	葛	Ge
+せい	奚	Xi
+はん	範/范	Fan
+ほう	彭	Peng
+ろう	郎	Lang
+ろ	魯	Lu
+い	韋	Wei
+しょう	昌	Chang
+ば	馬	Ma
+びょう	苗	Miao
+ほう	鳳	Feng
+か	花	Hua
+ほう	方	Fang
+ゆ	俞	Yu
+にん	任	Ren
+えん	袁	Yuan
+りゅう	柳	Liu
+ふう	酆	Feng
+ほう	鮑	Bao
+し	史	Shi
+とう	唐	Tang
+ひ	費	Fei
+れん	廉	Lian
+しん	岑	Cen
+せつ	薛	Xue
+らい	雷	Lei
+が	賀	He
+げい	倪	Ni
+とう	湯	Tang
+とう	滕	Teng
+いん	殷	Yin
+ら	羅	Luo
+ひつ	畢	Bi
+かく	郝	Hao
+う	鄔	Wu
+あん	安	An
+じょう	常	Chang
+がく	楽/樂	Yue
+う	于	Yu
+じ	時	Shi
+ふ	傅	Fu
+ひ	皮	Pi
+へん	卞	Bian
+せい	斉/齊	Qi
+こう	康	Kang
+ご	伍	Wu
+よ	余	Yu
+げん	元	Yuan
+ぼく	卜	Bu
+こ	顧	Gu
+もう	孟	Meng
+へい	平	Ping
+こう	黄/黃	Huang
+わ	和	He
+ぼく	穆	Mu
+しょう	蕭	Xiao
+いん	尹	Yin
+よう	姚	Yao
+しょう	邵	Shao
+たん	湛	Zhan
+おう	汪	Wang
+き	祁	Qi
+もう	毛	Mao
+う	禹	Yu
+てき	狄	Di
+べい	米	Mi
+はい	貝	Bei
+めい	明	Ming
+ぞう	臧	Zang
+けい	計	Ji
+ふく	伏	Fu
+せい	成	Cheng
+たい	戴	Dai
+だん	談	Tan
+そう	宋	Song
+ぼう	茅	Mao
+ほう	龐	Pang
+ゆう	熊	Xiong
+き	紀	Ji
+じょ	舒	Shu
+くつ	屈	Qu
+こう	項	Xiang
+しゅく	祝	Zhu
+とう	董	Dong
+りょう	梁	Liang
